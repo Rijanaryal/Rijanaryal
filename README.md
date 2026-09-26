@@ -1,164 +1,145 @@
-from pathlib import Path
+<!-- ===================== HEADER ===================== -->
 
-svg = r'''<svg width="1600" height="430" viewBox="0 0 1600 430" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="430" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07001A"/>
-      <stop offset="0.28" stop-color="#170044"/>
-      <stop offset="0.55" stop-color="#071B3D"/>
-      <stop offset="0.78" stop-color="#3A064A"/>
-      <stop offset="1" stop-color="#090018"/>
-    </linearGradient>
+<h1 align="center">Hey! I'm Reejan Aryal 👋</h1>
 
-    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
-      gradientTransform="translate(260 80) rotate(35) scale(420 300)">
-      <stop stop-color="#00F6FF" stop-opacity=".38"/>
-      <stop offset="1" stop-color="#00F6FF" stop-opacity="0"/>
-    </radialGradient>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Web+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Aspiring+Software+Developer+%F0%9F%92%BB;UI%2FUX+Explorer+%F0%9F%8E%A8;Programmer+%F0%9F%92%A1;Building.+Learning.+Creating.+Improving." />
+</p>
 
-    <radialGradient id="pinkGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
-      gradientTransform="translate(1320 350) rotate(-20) scale(500 300)">
-      <stop stop-color="#FF2BD6" stop-opacity=".38"/>
-      <stop offset="1" stop-color="#FF2BD6" stop-opacity="0"/>
-    </radialGradient>
+<p align="center">
+  🇳🇵 Nepal | 💻 Software & Web Development | 🚀 Future Software Developer
+</p>
 
-    <linearGradient id="title" x1="420" y1="120" x2="1180" y2="230" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF"/>
-      <stop offset=".35" stop-color="#6FFAFF"/>
-      <stop offset=".7" stop-color="#C98CFF"/>
-      <stop offset="1" stop-color="#FF5EDB"/>
-    </linearGradient>
+---
 
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#00F6FF"/>
-      <stop offset=".5" stop-color="#8C52FF"/>
-      <stop offset="1" stop-color="#FF2BD6"/>
-    </linearGradient>
+# 💫 About Me:
 
-    <filter id="glowCyan" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+Hi, I'm **Reejan Aryal** 👋  
+I'm an aspiring software developer from Nepal 🇳🇵 who loves coding, web development, UI/UX, and creating things from scratch.
 
-    <filter id="glowPink" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+I enjoy solving problems through code and turning ideas into real, interactive experiences. I'm constantly learning new technologies, improving my development skills, and working on projects that challenge me to grow.
 
-    <pattern id="grid" width="55" height="55" patternUnits="userSpaceOnUse">
-      <path d="M55 0H0V55" stroke="#8B7BFF" stroke-opacity=".09"/>
-      <circle cx="0" cy="0" r="1.7" fill="#8B7BFF" fill-opacity=".25"/>
-    </pattern>
-  </defs>
+🚀 **Building. Learning. Creating. Improving.**  
+💻 **Web Development | JavaScript | UI/UX | Programming**  
+🔐 **Cybersecurity Enthusiast**  
+🎯 **Future Software Developer**
 
-  <rect width="1600" height="430" rx="28" fill="url(#bg)"/>
-  <rect width="1600" height="430" rx="28" fill="url(#grid)"/>
-  <rect width="1600" height="430" rx="28" fill="url(#cyanGlow)"/>
-  <rect width="1600" height="430" rx="28" fill="url(#pinkGlow)"/>
+---
 
-  <!-- futuristic network -->
-  <g stroke="url(#line)" stroke-width="2" opacity=".45">
-    <path d="M0 85L180 25L330 100L470 30L620 90L790 35L940 100L1110 25L1280 95L1450 35L1600 80"/>
-    <path d="M0 350L160 285L310 370L470 305L640 365L800 285L970 355L1130 300L1300 375L1460 300L1600 345"/>
-    <path d="M90 0L180 150L120 300L250 430"/>
-    <path d="M1500 0L1410 140L1480 275L1370 430"/>
-  </g>
+# 💻 Tech Stack:
 
-  <!-- floating circuit nodes -->
-  <g filter="url(#glowCyan)">
-    <circle cx="180" cy="25" r="5" fill="#00F6FF"/>
-    <circle cx="330" cy="100" r="4" fill="#00F6FF"/>
-    <circle cx="620" cy="90" r="4" fill="#00F6FF"/>
-    <circle cx="1110" cy="25" r="5" fill="#00F6FF"/>
-    <circle cx="1280" cy="95" r="4" fill="#00F6FF"/>
-    <circle cx="160" cy="285" r="4" fill="#00F6FF"/>
-    <circle cx="640" cy="365" r="5" fill="#00F6FF"/>
-  </g>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
+![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
 
-  <g filter="url(#glowPink)">
-    <circle cx="470" cy="30" r="4" fill="#FF2BD6"/>
-    <circle cx="940" cy="100" r="5" fill="#FF2BD6"/>
-    <circle cx="1450" cy="35" r="4" fill="#FF2BD6"/>
-    <circle cx="1130" cy="300" r="5" fill="#FF2BD6"/>
-    <circle cx="1460" cy="300" r="4" fill="#FF2BD6"/>
-  </g>
+---
 
-  <!-- left code badge -->
-  <g transform="translate(100 105)">
-    <polygon points="0,35 58,0 116,35 116,105 58,140 0,105"
-             fill="#0A0720" stroke="#00F6FF" stroke-width="3"/>
-    <polygon points="13,42 58,15 103,42 103,98 58,125 13,98"
-             fill="#111038" stroke="#8C52FF" stroke-width="2"/>
-    <text x="58" y="84" text-anchor="middle"
-          font-family="monospace" font-size="38" font-weight="bold"
-          fill="#00F6FF">&lt;/&gt;</text>
-  </g>
+# 🚀 Projects:
 
-  <!-- right security badge -->
-  <g transform="translate(1384 95)">
-    <path d="M58 0L112 20V65C112 103 88 129 58 142C28 129 4 103 4 65V20L58 0Z"
-          fill="#100624" stroke="#FF2BD6" stroke-width="3"/>
-    <path d="M58 25L88 37V64C88 85 76 101 58 110C40 101 28 85 28 64V37L58 25Z"
-          fill="#24104B" stroke="#C98CFF" stroke-width="2"/>
-    <rect x="45" y="59" width="26" height="24" rx="4" fill="#00F6FF"/>
-    <path d="M50 59V51C50 40 66 40 66 51V59" stroke="#00F6FF" stroke-width="5" fill="none"/>
-  </g>
+### 🛒 E-commerce Platform
+**MERN Stack**
 
-  <!-- central decorative bars -->
-  <g opacity=".8">
-    <rect x="550" y="73" width="500" height="2" fill="url(#line)"/>
-    <rect x="635" y="330" width="330" height="2" fill="url(#line)"/>
-    <circle cx="550" cy="74" r="4" fill="#00F6FF"/>
-    <circle cx="1050" cy="74" r="4" fill="#FF2BD6"/>
-  </g>
+A full-stack e-commerce platform built using MongoDB, Express.js, React and Node.js.
 
-  <!-- title -->
-  <text x="800" y="170" text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="58" font-weight="800"
-        fill="url(#title)"
-        filter="url(#glowCyan)">
-    Hey! I'm Reejan Aryal
-  </text>
+### ✅ To-Do List App
+**React**
 
-  <text x="800" y="215" text-anchor="middle"
-        font-family="monospace"
-        font-size="21" letter-spacing="4"
-        fill="#B7F9FF">
-    &lt; CODE • CREATE • SECURE • INNOVATE /&gt;
-  </text>
+A responsive task-management application built with React.
 
-  <!-- role chips -->
-  <g font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">
-    <rect x="445" y="252" width="205" height="42" rx="21" fill="#00F6FF" fill-opacity=".10" stroke="#00F6FF"/>
-    <text x="547" y="279" text-anchor="middle" fill="#6FFAFF">CYBERSECURITY</text>
+### 🍔 Food Delivery WebApp
+**MERN Stack**
 
-    <rect x="665" y="252" width="175" height="42" rx="21" fill="#8C52FF" fill-opacity=".13" stroke="#9D72FF"/>
-    <text x="752" y="279" text-anchor="middle" fill="#D7C4FF">WEB DEVELOPER</text>
+A full-stack food delivery web application using MongoDB, Express.js, React and Node.js.
 
-    <rect x="855" y="252" width="185" height="42" rx="21" fill="#FF2BD6" fill-opacity=".11" stroke="#FF2BD6"/>
-    <text x="947" y="279" text-anchor="middle" fill="#FF8BE8">TECH ENTHUSIAST</text>
+### 📄 CV Maker
+**PHP**
 
-    <rect x="585" y="307" width="205" height="42" rx="21" fill="#FF8A00" fill-opacity=".10" stroke="#FF9D32"/>
-    <text x="687" y="334" text-anchor="middle" fill="#FFC078">SOFTWARE DEV</text>
+A web-based CV creation application built using PHP.
 
-    <rect x="805" y="307" width="210" height="42" rx="21" fill="#00C2FF" fill-opacity=".10" stroke="#00C2FF"/>
-    <text x="910" y="334" text-anchor="middle" fill="#75DDFF">UI/UX EXPLORER</text>
-  </g>
+### 📝 Interactive Form Builder
+**React**
 
-  <!-- bottom cyber line -->
-  <path d="M350 390H1250" stroke="url(#line)" stroke-width="3" opacity=".8"/>
-  <circle cx="350" cy="390" r="5" fill="#00F6FF" filter="url(#glowCyan)"/>
-  <circle cx="1250" cy="390" r="5" fill="#FF2BD6" filter="url(#glowPink)"/>
+An interactive form-building application focused on creating dynamic forms.
 
-  <text x="800" y="405" text-anchor="middle"
-        font-family="monospace" font-size="13"
-        fill="#7E8AAE" letter-spacing="3">
-    NEPAL 🇳🇵  •  BUILDING THE FUTURE ONE PROJECT AT A TIME
-  </text>
-</svg>
-'''
+### ⚡ EV Charging Station Detection System
+**Frontend:** React, TailwindCSS, Leaflet.js  
+**Backend:** Python (Flask/FastAPI)  
+**Database:** Redis, MongoDB  
+**Algorithm:** Dijkstra's Algorithm  
+**APIs:** REST/API Integration
 
-path = Path("/mnt/data/header.svg")
-path.write_text(svg, encoding="utf-8")
-print(f"Created: {path}")
+A system designed to help detect and locate nearby EV charging stations using maps, APIs and route algorithms.
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=Rijanaryal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<br/>
+
+![](https://streak-stats.demolab.com/?user=Rijanaryal&theme=dark&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rijanaryal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+# 📈 GitHub Activity:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rijanaryal&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+# 👀 Profile Views:
+
+[![](https://komarev.com/ghpvc/?username=Rijanaryal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+# 🤝 Connect with Me:
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Reejan%20Aryal-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Rijanaryal">
+<img src="https://img.shields.io/badge/GitHub-Rijanaryal-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:rijanaryal1868@gmail.com">
+<img src="https://img.shields.io/badge/Email-rijanaryal1868%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+  💻 Code • 🚀 Build • 🔐 Secure • 🎨 Design • 📚 Learn
+</h3>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
