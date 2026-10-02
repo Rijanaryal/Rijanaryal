@@ -7,11 +7,6 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c6ff&height=250&section=header&text=Hey!%20I'm%20Reejan%20Aryal%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" /> </p>
 <p align="center">
-  <img<!-- ========================================================= -->
-
-<!--                    REEJAN ARYAL README                    -->
-
-<!-- ========================================================= -->
 
 <div align="center">
 
