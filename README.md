@@ -52,6 +52,47 @@ I learn by **building real projects**: experimenting with new tech, breaking thi
 </tr>
 </table>
 
+---
+
+## 02 · About Me
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
+Hi, I'm **Reejan Aryal** 👋
+
+I'm a software developer from Nepal 🇳🇵 who enjoys building websites, experimenting with technology and exploring UI/UX. I like turning ideas into real, working projects.
+
+I learn by building: small experiments and web interfaces first, then bigger apps that connect a **frontend**, a **backend**, a **database** and sometimes **AI**.
+
+Most nights you'll find me with headphones on, deep in backend code, shipping one more endpoint before bed. 🎧
+
+</td>
+<td width="52%" align="center" valign="middle">
+
+```text
+  </>     { }     API     SQL     JWT
+
+      ,-----.        ┌───────────────────────────┐
+     / ,   , \       │ $ node server.js          │
+    | (o) (o) |      │ app.post('/login', auth)  │
+    |    ‿    |      │   const user = db.find()  │
+     \  ---  /       │   res.json(user);         │
+   ,--`-----'--.     │ ✓ API running on :3000 █  │
+  / |  coder  | \    └─────────────┬─────────────┘
+  \_|         |_/==
+    |_________|
+
+════════════════════[::][::][::]════╧══════════════  ☕
+```
+
+<sub>🎧 a boy, a keyboard, and one more endpoint</sub>
+
+</td>
+</tr>
+</table>
+
 ### 🚀 What I Do
 
 | | |
@@ -62,9 +103,15 @@ I learn by **building real projects**: experimenting with new tech, breaking thi
 | 🔐 **Learn** | Cybersecurity fundamentals |
 | 🛠️ **Ship** | Practical projects that solve real problems |
 
+<div align="center">
+
+**Building. 🚀 &nbsp; Learning. 📚 &nbsp; Creating. 💡 &nbsp; Improving. 🔥**
+
+</div>
+
 ---
 
-## 02 · Current System
+## 03 · Current System
 
 ```text
 $ system --status
@@ -91,7 +138,7 @@ $ system --status
 
 ---
 
-## 03 · Tech Stack
+## 04 · Tech Stack
 
 <div align="center">
 
@@ -115,7 +162,7 @@ $ system --status
 
 ---
 
-## 04 · Project Database
+## 05 · Project Database
 
 <table>
 <tr>
@@ -191,7 +238,7 @@ A highly interactive developer portfolio built around modern animation and visua
 
 ---
 
-## 05 · Backend Knowledge Flow
+## 06 · Backend Knowledge Flow
 
 <div align="center">
 <i>From request → logic → data → response</i>
@@ -207,7 +254,7 @@ flowchart LR
 
 ---
 
-## 06 · GitHub Telemetry
+## 07 · GitHub Telemetry
 
 <div align="center">
 
@@ -220,7 +267,7 @@ flowchart LR
 
 ---
 
-## 07 · Learning Engine
+## 08 · Learning Engine
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=600&color=00E5FF&center=true&vCenter=true&width=900&height=45&lines=Learning+JavaScript...;Learning+Next.js...;Learning+Backend+Architecture...;Exploring+AI...;Exploring+Cybersecurity...;Improving+Every+Day..." alt="learning" />
@@ -248,7 +295,7 @@ Open Source           [███████░░░░░░░░░░░░
 
 ---
 
-## 08 · 2026 Objectives
+## 09 · 2026 Objectives
 
 ```text
 ╔════════════════════════════════════════════════════════╗
@@ -268,7 +315,7 @@ Open Source           [███████░░░░░░░░░░░░
 
 ---
 
-## 09 · Contribution Matrix
+## 10 · Contribution Matrix
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
@@ -276,7 +323,7 @@ Open Source           [███████░░░░░░░░░░░░
 
 ---
 
-## 10 · Connect
+## 11 · Connect
 
 <div align="center">
 
