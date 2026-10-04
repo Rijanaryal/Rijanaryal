@@ -278,6 +278,238 @@ Data Processing
         ↓
 Real-Time Dashboard
 
+# `05`- Knowledge 
+
+<h1 align="center">📍 LOCATION TRACKER</h1>
+
+<p align="center">
+  <b>Consent-Based Real-Time Location Tracking System</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-111827?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-111827?style=for-the-badge">
+  <img src="https://img.shields.io/badge/API-Geolocation-111827?style=for-the-badge">
+</p>
+
+---
+
+## `01` — SYSTEM ARCHITECTURE
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+
+### 🌐 FRONTEND
+
+**HTML**  
+**CSS**  
+**JavaScript**
+
+<br>
+
+UI  
+Responsive Design  
+User Interaction
+
+</td>
+
+<td align="center" width="60">
+
+### ➜
+
+</td>
+
+<td align="center" width="180">
+
+### 📍 GEOLOCATION
+
+**Browser API**
+
+<br>
+
+Permission  
+Latitude  
+Longitude
+
+</td>
+
+<td align="center" width="60">
+
+### ➜
+
+</td>
+
+<td align="center" width="180">
+
+### 🔗 API
+
+**HTTP / JSON**
+
+<br>
+
+Requests  
+Responses  
+Data Transfer
+
+</td>
+
+<td align="center" width="60">
+
+### ➜
+
+</td>
+
+<td align="center" width="180">
+
+### ⚙️ BACKEND
+
+**Node.js**  
+**Express.js**
+
+<br>
+
+Routes  
+Processing  
+Sessions
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<b>CLIENT</b>
+&nbsp;&nbsp; → &nbsp;&nbsp;
+<b>GEOLOCATION</b>
+&nbsp;&nbsp; → &nbsp;&nbsp;
+<b>API</b>
+&nbsp;&nbsp; → &nbsp;&nbsp;
+<b>BACKEND</b>
+
+</p>
+
+---
+
+## `02` — HOW IT WORKS
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### `01`
+
+🌐
+
+**OPEN**
+
+User opens the tracking page.
+
+</td>
+
+<td width="25%" align="center">
+
+### `02`
+
+🔐
+
+**PERMISSION**
+
+Browser requests location permission.
+
+</td>
+
+<td width="25%" align="center">
+
+### `03`
+
+📍
+
+**LOCATION**
+
+Coordinates are obtained after permission.
+
+</td>
+
+<td width="25%" align="center">
+
+### `04`
+
+⚙️
+
+**BACKEND**
+
+Data is received and processed by the server.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` — TECHNICAL FLOW
+
+```text
+                 USER
+                  │
+                  ▼
+        ┌──────────────────┐
+        │   HTML + CSS     │
+        │   JavaScript     │
+        └────────┬─────────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │ Geolocation API  │
+        └────────┬─────────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │   Fetch / JSON   │
+        └────────┬─────────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │ Express.js Routes│
+        └────────┬─────────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │   Node.js        │
+        │    Backend       │
+        └────────┬─────────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │ Data Processing  │
+        └────────┬─────────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │    Dashboard     │
+        └──────────────────┘
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # `06` — GITHUB TELEMETRY
 
 <div align="center">
