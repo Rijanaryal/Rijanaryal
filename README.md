@@ -96,7 +96,7 @@ Improving. 🔥
 
 
 
-02 — CURRENT SYSTEM
+# 02 — CURRENT SYSTEM
 
 ┌──────────────────────────────────────────────────────────────────────┐
 │                         SYSTEM STATUS                               │
@@ -125,7 +125,7 @@ Improving. 🔥
 
 </p>
 
-03 — TECH STACK
+# 03 — TECH STACK
 
 <div align="center">
 
@@ -147,7 +147,7 @@ TOOLS
 
 </div>
 
-04 — PROJECT DATABASE
+# 04 — PROJECT DATABASE
 
 <table>
 <tr>
@@ -387,7 +387,7 @@ API Response
 
 
 
-06 — GITHUB TELEMETRY
+# 05 — GITHUB TELEMETRY
 
 <div align="center">
 
@@ -429,7 +429,7 @@ width="100%"
 [█████████░░░░░░░░░░░░░] Cybersecurity
 [███████░░░░░░░░░░░░░░░] Open Source
 
-08 — 2026 OBJECTIVES
+# 07— 2026 OBJECTIVES
 
 ╔══════════════════════════════════════════════════════════════╗
 ║                       2026.exe                              ║
@@ -447,7 +447,7 @@ width="100%"
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 
-09 — CONTRIBUTION MATRIX
+# 08 — CONTRIBUTION MATRIX
 
 <div align="center">
 
