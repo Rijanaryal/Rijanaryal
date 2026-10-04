@@ -264,37 +264,19 @@ A highly interactive developer portfolio designed around modern web animation an
 
 ---
 
-# `05` — BUILD PIPELINE
-
-```text
-                 ┌───────────────┐
-                 │     IDEA      │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    DESIGN     │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │     CODE      │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │     TEST      │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    DEPLOY     │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    IMPROVE    │
-                 └───────────────┘
-
-        IDEA → DESIGN → CODE → TEST → DEPLOY → REPEAT
-```
-
----
+Frontend Development
+        ↓
+Browser APIs
+        ↓
+Client–Server Communication
+        ↓
+REST / HTTP Requests
+        ↓
+Backend Routing
+        ↓
+Data Processing
+        ↓
+Real-Time Dashboard
 
 # `06` — GITHUB TELEMETRY
 
