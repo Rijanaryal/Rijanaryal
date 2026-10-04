@@ -398,10 +398,6 @@ width="100%"
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=800&color=7C3AED&center=true&vCenter=true&width=900&height=45&lines=Code.+Build.+Break.+Fix.+Repeat.;Turning+ideas+into+interfaces.;Turning+problems+into+solutions.;The+journey+has+just+started." />
-
-<br><br>
-
 `💻 CODE`   `🚀 BUILD`   `🎨 DESIGN`   `🤖 EXPLORE`   `🔐 SECURE`   `📚 LEARN`
 
 <br><br>
