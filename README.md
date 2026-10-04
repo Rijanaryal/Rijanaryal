@@ -67,6 +67,39 @@ I learn primarily by **building real projects**, experimenting with new technolo
 
 ---
 
+# 💫 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+Hi, I'm **Reejan Aryal** 👋
+
+I'm an aspiring software developer from **Nepal 🇳🇵** who enjoys building websites, experimenting with technology, exploring UI/UX, and turning ideas into real projects.
+
+I enjoy learning by building — from small experiments and web interfaces to larger applications involving frontend, backend, databases and AI.
+
+### 🚀 What I Do
+
+* 💻 Build web applications
+* 🎨 Explore UI/UX design
+* 🧠 Learn programming and software engineering
+* 🤖 Explore AI and emerging technologies
+* 🔐 Learn cybersecurity
+* 🛠️ Turn ideas into practical projects
+* 📚 Continuously improve my development skills
+
+<p align="center">
+
+**Building.** 🚀
+**Learning.** 📚
+**Creating.** 💡
+**Improving.** 🔥
+
+</p>
+
+---
+
+
+
 # `02` — CURRENT SYSTEM
 
 ```text
@@ -529,36 +562,6 @@ width="100%"
 
 <!-- ============================= -->
 
-# 💫 About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-Hi, I'm **Reejan Aryal** 👋
-
-I'm an aspiring software developer from **Nepal 🇳🇵** who enjoys building websites, experimenting with technology, exploring UI/UX, and turning ideas into real projects.
-
-I enjoy learning by building — from small experiments and web interfaces to larger applications involving frontend, backend, databases and AI.
-
-### 🚀 What I Do
-
-* 💻 Build web applications
-* 🎨 Explore UI/UX design
-* 🧠 Learn programming and software engineering
-* 🤖 Explore AI and emerging technologies
-* 🔐 Learn cybersecurity
-* 🛠️ Turn ideas into practical projects
-* 📚 Continuously improve my development skills
-
-<p align="center">
-
-**Building.** 🚀
-**Learning.** 📚
-**Creating.** 💡
-**Improving.** 🔥
-
-</p>
-
----
 
 # 🧠 Currently Learning
 
