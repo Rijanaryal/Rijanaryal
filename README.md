@@ -273,57 +273,51 @@ A highly interactive developer portfolio designed around modern web animation an
 </tr>
 </table>
 
-<!-- ============================= -->
-
-<!--     BACKEND ARCHITECTURE      -->
-
-<!-- ============================= -->
+Frontend Development
+↓
+Browser APIs
+↓
+Client–Server Communication
+↓
+REST / HTTP Requests
+↓
+Backend Routing
+↓
+Data Processing
+↓
+Real-Time Dashboard
 
 <div align="center">
 
-05 ⚡ BACKEND ARCHITECTURE
+05⚡ Backend Knowledge Flow
 
 <p>
-  <i>From request → processing → data → response</i>
+  <i>From request → logic → data → response</i>
 </p>
 
 <br>
 
 <table>
 <tr>
-<td align="center" width="18%">
+<td align="center">
 
 🌐
 
-CLIENT
-
-Browser
-Frontend
-UI
-
-</td>
-
-<td align="center" width="5%">### ➜</td>
-
-<td align="center" width="18%">
-
-📡
-
-API
+API / Request
 
 HTTP
-REST
+REST API
 Routes
 
 </td>
 
-<td align="center" width="5%">### ➜</td>
+<td align="center">➜</td>
 
-<td align="center" width="18%">
+<td align="center">
 
 ⚙️
 
-BACKEND
+Backend Logic
 
 Node.js
 Express.js
@@ -331,115 +325,67 @@ Middleware
 
 </td>
 
-<td align="center" width="5%">### ➜</td>
+<td align="center">➜</td>
 
-<td align="center" width="18%">
+<td align="center">
 
 🧠
 
-LOGIC
+Business Logic
 
 Validation
-Auth
+Authentication
 Services
 
 </td>
 
-<td align="center" width="5%">### ➜</td>
+<td align="center">➜</td>
 
-<td align="center" width="18%">
+<td align="center">
 
 🗄️
 
-DATABASE
+Database
 
 MongoDB
 MySQL
 Queries
 
 </td>
+
+<td align="center">➜</td>
+
+<td align="center">
+
+🚀
+
+Response
+
+JSON
+Status Codes
+API Response
+
+</td>
 </tr>
 </table>
 
 <br>
 
-╔══════════════════════════════════════════════════════════════════════════╗
-║                         BACKEND REQUEST FLOW                            ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   🌐 CLIENT                                                              ║
-║      │                                                                   ║
-║      │  HTTP Request                                                     ║
-║      ▼                                                                   ║
-║   📡 API / ROUTE                                                         ║
-║      │                                                                   ║
-║      │  Middleware                                                       ║
-║      ▼                                                                   ║
-║   ⚙️ BACKEND                                                             ║
-║      │                                                                   ║
-║      │  Business Logic                                                  ║
-║      ▼                                                                   ║
-║   🧠 SERVICES                                                             ║
-║      │                                                                   ║
-║      │  Query / CRUD                                                      ║
-║      ▼                                                                   ║
-║   🗄️ DATABASE                                                             ║
-║      │                                                                   ║
-║      │  Data                                                              ║
-║      ▼                                                                   ║
-║   ⚡ PROCESSING                                                           ║
-║      │                                                                   ║
-║      │  JSON + Status Code                                               ║
-║      ▼                                                                   ║
-║   🚀 RESPONSE                                                             ║
-║      │                                                                   ║
-║      └───────────────────────→ 🌐 CLIENT                                ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
 
-<br>
 
-<table>
-<tr>
-<td align="center"><b>01 · REQUEST</b><br><code>GET</code> <code>POST</code> <code>PUT</code> <code>DELETE</code></td>
-<td align="center">→</td>
-<td align="center"><b>02 · ROUTING</b><br><code>Express Router</code></td>
-<td align="center">→</td>
-<td align="center"><b>03 · MIDDLEWARE</b><br><code>Auth</code> <code>Validation</code></td>
-<td align="center">→</td>
-<td align="center"><b>04 · LOGIC</b><br><code>Controllers</code> <code>Services</code></td>
-<td align="center">→</td>
-<td align="center"><b>05 · DATA</b><br><code>CRUD</code> <code>Queries</code></td>
-<td align="center">→</td>
-<td align="center"><b>06 · RESPONSE</b><br><code>JSON</code> <code>HTTP</code></td>
-</tr>
-</table>
 
-<br>
 
-BACKEND MINDSET
 
-REQUEST
-   ↓
-ROUTE
-   ↓
-MIDDLEWARE
-   ↓
-CONTROLLER
-   ↓
-SERVICE
-   ↓
-DATABASE
-   ↓
-PROCESS
-   ↓
-RESPONSE
 
-<p>
-  <code>Design → Build → Connect → Process → Respond</code>
-</p>
 
-</div>
+
+
+
+
+
+
+
+
 
 06 — GITHUB TELEMETRY
 
