@@ -73,7 +73,7 @@ I learn primarily by **building real projects**, experimenting with new technolo
 
 Hi, I'm **Reejan Aryal** 👋
 
-I'm an aspiring software developer from **Nepal 🇳🇵** who enjoys building websites, experimenting with technology, exploring UI/UX, and turning ideas into real projects.
+I'm a software developer from **Nepal 🇳🇵** who enjoys building websites, experimenting with technology, exploring UI/UX, and turning ideas into real projects.
 
 I enjoy learning by building — from small experiments and web interfaces to larger applications involving frontend, backend, databases and AI.
 
