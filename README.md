@@ -1,4 +1,3 @@
-
 <!-- ============================= -->
 
 <!-- HERO HEADER -->
@@ -9,7 +8,6 @@
 <p align="center">
 
 <div align="center">
-
 
 <br>
 
@@ -23,15 +21,13 @@
 
 <div align="center">
 
-`● ONLINE`    `⌁ NEPAL`    `⌘ CSIT STUDENT`    `⚡ BUILD MODE`
+● ONLINE    ⌁ NEPAL    ⌘ CSIT STUDENT    ⚡ BUILD MODE
 
 </div>
 
 <br>
 
----
-
-# `01` — WHO AM I?
+01 — WHO AM I?
 
 <table>
 <tr>
@@ -39,7 +35,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=7C3AED&width=600&height=35&lines=whoami;cat+about-me.txt;./introduce.sh" />
 
-```text
 ┌──────────────────────────────────────────────┐
 │                                              │
 │  NAME        →  Reejan Aryal                 │
@@ -49,11 +44,10 @@
 │  CURRENTLY   →  BSc CSIT                    │
 │                                              │
 └──────────────────────────────────────────────┘
-```
 
 I'm a developer from Nepal who enjoys turning ideas into interactive digital experiences.
 
-I learn primarily by **building real projects**, experimenting with new technologies, breaking things, fixing them, and improving the result.
+I learn primarily by building real projects, experimenting with new technologies, breaking things, fixing them, and improving the result.
 
 </td>
 
@@ -65,44 +59,45 @@ I learn primarily by **building real projects**, experimenting with new technolo
 </tr>
 </table>
 
----
-
-# 💫 About Me
+💫 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Hi, I'm **Reejan Aryal** 👋
+Hi, I'm Reejan Aryal 👋
 
-I'm a software developer from **Nepal 🇳🇵** who enjoys building websites, experimenting with technology, exploring UI/UX, and turning ideas into real projects.
+I'm a software developer from Nepal 🇳🇵 who enjoys building websites, experimenting with technology, exploring UI/UX, and turning ideas into real projects.
 
 I enjoy learning by building — from small experiments and web interfaces to larger applications involving frontend, backend, databases and AI.
 
-### 🚀 What I Do
+🚀 What I Do
 
-* 💻 Build web applications
-* 🎨 Explore UI/UX design
-* 🧠 Learn programming and software engineering
-* 🤖 Explore AI and emerging technologies
-* 🔐 Learn cybersecurity
-* 🛠️ Turn ideas into practical projects
-* 📚 Continuously improve my development skills
+💻 Build web applications
+
+🎨 Explore UI/UX design
+
+🧠 Learn programming and software engineering
+
+🤖 Explore AI and emerging technologies
+
+🔐 Learn cybersecurity
+
+🛠️ Turn ideas into practical projects
+
+📚 Continuously improve my development skills
 
 <p align="center">
 
-**Building.** 🚀
-**Learning.** 📚
-**Creating.** 💡
-**Improving.** 🔥
+Building. 🚀
+Learning. 📚
+Creating. 💡
+Improving. 🔥
 
 </p>
 
----
 
 
+02 — CURRENT SYSTEM
 
-# `02` — CURRENT SYSTEM
-
-```text
 ┌──────────────────────────────────────────────────────────────────────┐
 │                         SYSTEM STATUS                               │
 ├──────────────────────────────────────────────────────────────────────┤
@@ -123,7 +118,6 @@ I enjoy learning by building — from small experiments and web interfaces to la
 │  └── Turn ideas → interfaces → products                            │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
-```
 
 <p align="center">
 
@@ -131,41 +125,36 @@ I enjoy learning by building — from small experiments and web interfaces to la
 
 </p>
 
----
-
-# `03` — TECH STACK
+03 — TECH STACK
 
 <div align="center">
 
-### `LANGUAGES`
+LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css&theme=dark" />
 
-### `FRONTEND`
+FRONTEND
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 
-### `BACKEND / DATABASE`
+BACKEND / DATABASE
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb,firebase&theme=dark" />
 
-### `TOOLS`
+TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark" />
 
 </div>
 
----
-
-# `04` — PROJECT DATABASE
+04 — PROJECT DATABASE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🛒 TAAJA BAZAR
+🛒 TAAJA BAZAR
 
-```text
 TYPE
 Farmer → Buyer Platform
 
@@ -175,7 +164,6 @@ Low-data Nepal Web Platform
 STACK
 HTML • CSS • JS
 UI/UX • Figma
-```
 
 A platform concept focused on connecting farmers and buyers while keeping the experience simple and accessible.
 
@@ -183,9 +171,8 @@ A platform concept focused on connecting farmers and buyers while keeping the ex
 
 <td width="50%" valign="top">
 
-## 🛍️ ELECTRO-BAZZAR
+🛍️ ELECTRO-BAZZAR
 
-```text
 TYPE
 E-Commerce Platform
 
@@ -194,7 +181,6 @@ PHP
 MySQL
 HTML • CSS • JS
 XAMPP
-```
 
 An e-commerce project developed around product browsing, shopping functionality and database-driven web development.
 
@@ -204,9 +190,8 @@ An e-commerce project developed around product browsing, shopping functionality 
 <tr>
 <td width="50%" valign="top">
 
-## 🤖 NEPALGPT
+🤖 NEPALGPT
 
-```text
 TYPE
 AI / Chat Application
 
@@ -219,7 +204,6 @@ Web Interface
 
 FOCUS
 AI • APIs • Full Stack
-```
 
 An experimental AI application exploring the connection between a modern frontend and Python backend.
 
@@ -227,9 +211,8 @@ An experimental AI application exploring the connection between a modern fronten
 
 <td width="50%" valign="top">
 
-## 🎓 ASCOL HUB
+🎓 ASCOL HUB
 
-```text
 TYPE
 Student Platform
 
@@ -241,7 +224,6 @@ Three.js
 
 FOCUS
 Students • Community • UI
-```
 
 A concept for connecting ASCOL students through a dedicated digital platform.
 
@@ -251,9 +233,8 @@ A concept for connecting ASCOL students through a dedicated digital platform.
 <tr>
 <td width="50%" valign="top">
 
-## 🧮 SCIENTIFIC CALCULATOR
+🧮 SCIENTIFIC CALCULATOR
 
-```text
 TYPE
 Interactive Tool
 
@@ -264,7 +245,6 @@ CSS
 
 FOCUS
 Logic • UI • UX
-```
 
 A realistic scientific calculator project focused on functionality, interaction and calculator-style interface design.
 
@@ -272,9 +252,8 @@ A realistic scientific calculator project focused on functionality, interaction 
 
 <td width="50%" valign="top">
 
-## 🌐 REEJAN.DEV
+🌐 REEJAN.DEV
 
-```text
 TYPE
 Personal Portfolio
 
@@ -287,7 +266,6 @@ FOCUS
 Creative UI
 Motion
 Personal Branding
-```
 
 A highly interactive developer portfolio designed around modern web animation and visual storytelling.
 
@@ -295,94 +273,89 @@ A highly interactive developer portfolio designed around modern web animation an
 </tr>
 </table>
 
----
+<!-- ============================= -->
 
-Frontend Development
-        ↓
-Browser APIs
-        ↓
-Client–Server Communication
-        ↓
-REST / HTTP Requests
-        ↓
-Backend Routing
-        ↓
-Data Processing
-        ↓
-Real-Time Dashboard
+<!--     BACKEND ARCHITECTURE      -->
+
+<!-- ============================= -->
 
 <div align="center">
 
-# `05`⚡ Backend Knowledge Flow
+05 ⚡ BACKEND ARCHITECTURE
 
 <p>
-  <i>From request → logic → data → response</i>
+  <i>From request → processing → data → response</i>
 </p>
 
 <br>
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="18%">
 
-### 🌐
-**API / Request**
+🌐
 
-`HTTP`  
-`REST API`  
-`Routes`
+CLIENT
 
-</td>
-
-<td align="center">➜</td>
-
-<td align="center">
-
-### ⚙️
-**Backend Logic**
-
-`Node.js`  
-`Express.js`  
-`Middleware`
+Browser
+Frontend
+UI
 
 </td>
 
-<td align="center">➜</td>
+<td align="center" width="5%">### ➜</td>
 
-<td align="center">
+<td align="center" width="18%">
 
-### 🧠
-**Business Logic**
+📡
 
-`Validation`  
-`Authentication`  
-`Services`
+API
 
-</td>
-
-<td align="center">➜</td>
-
-<td align="center">
-
-### 🗄️
-**Database**
-
-`MongoDB`  
-`MySQL`  
-`Queries`
+HTTP
+REST
+Routes
 
 </td>
 
-<td align="center">➜</td>
+<td align="center" width="5%">### ➜</td>
 
-<td align="center">
+<td align="center" width="18%">
 
-### 🚀
-**Response**
+⚙️
 
-`JSON`  
-`Status Codes`  
-`API Response`
+BACKEND
+
+Node.js
+Express.js
+Middleware
+
+</td>
+
+<td align="center" width="5%">### ➜</td>
+
+<td align="center" width="18%">
+
+🧠
+
+LOGIC
+
+Validation
+Auth
+Services
+
+</td>
+
+<td align="center" width="5%">### ➜</td>
+
+<td align="center" width="18%">
+
+🗄️
+
+DATABASE
+
+MongoDB
+MySQL
+Queries
 
 </td>
 </tr>
@@ -390,24 +363,85 @@ Real-Time Dashboard
 
 <br>
 
+╔══════════════════════════════════════════════════════════════════════════╗
+║                         BACKEND REQUEST FLOW                            ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   🌐 CLIENT                                                              ║
+║      │                                                                   ║
+║      │  HTTP Request                                                     ║
+║      ▼                                                                   ║
+║   📡 API / ROUTE                                                         ║
+║      │                                                                   ║
+║      │  Middleware                                                       ║
+║      ▼                                                                   ║
+║   ⚙️ BACKEND                                                             ║
+║      │                                                                   ║
+║      │  Business Logic                                                  ║
+║      ▼                                                                   ║
+║   🧠 SERVICES                                                             ║
+║      │                                                                   ║
+║      │  Query / CRUD                                                      ║
+║      ▼                                                                   ║
+║   🗄️ DATABASE                                                             ║
+║      │                                                                   ║
+║      │  Data                                                              ║
+║      ▼                                                                   ║
+║   ⚡ PROCESSING                                                           ║
+║      │                                                                   ║
+║      │  JSON + Status Code                                               ║
+║      ▼                                                                   ║
+║   🚀 RESPONSE                                                             ║
+║      │                                                                   ║
+║      └───────────────────────→ 🌐 CLIENT                                ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 
+<br>
 
+<table>
+<tr>
+<td align="center"><b>01 · REQUEST</b><br><code>GET</code> <code>POST</code> <code>PUT</code> <code>DELETE</code></td>
+<td align="center">→</td>
+<td align="center"><b>02 · ROUTING</b><br><code>Express Router</code></td>
+<td align="center">→</td>
+<td align="center"><b>03 · MIDDLEWARE</b><br><code>Auth</code> <code>Validation</code></td>
+<td align="center">→</td>
+<td align="center"><b>04 · LOGIC</b><br><code>Controllers</code> <code>Services</code></td>
+<td align="center">→</td>
+<td align="center"><b>05 · DATA</b><br><code>CRUD</code> <code>Queries</code></td>
+<td align="center">→</td>
+<td align="center"><b>06 · RESPONSE</b><br><code>JSON</code> <code>HTTP</code></td>
+</tr>
+</table>
 
+<br>
 
+BACKEND MINDSET
 
+REQUEST
+   ↓
+ROUTE
+   ↓
+MIDDLEWARE
+   ↓
+CONTROLLER
+   ↓
+SERVICE
+   ↓
+DATABASE
+   ↓
+PROCESS
+   ↓
+RESPONSE
 
+<p>
+  <code>Design → Build → Connect → Process → Respond</code>
+</p>
 
+</div>
 
-
-
-
-
-
-
-
-
-
-# `06` — GITHUB TELEMETRY
+06 — GITHUB TELEMETRY
 
 <div align="center">
 
@@ -434,9 +468,7 @@ width="100%"
 
 </div>
 
----
-
-# `07` — LEARNING ENGINE
+07 — LEARNING ENGINE
 
 <p align="center">
 
@@ -444,20 +476,15 @@ width="100%"
 
 </p>
 
-```text
 [████████████████████░░] Web Development
 [███████████████░░░░░░░] JavaScript / React
 [██████████████░░░░░░░░] Backend Development
 [███████████░░░░░░░░░░░] AI Development
 [█████████░░░░░░░░░░░░░] Cybersecurity
 [███████░░░░░░░░░░░░░░░] Open Source
-```
 
----
+08 — 2026 OBJECTIVES
 
-# `08` — 2026 OBJECTIVES
-
-```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                       2026.exe                              ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -473,11 +500,8 @@ width="100%"
 ║  [ ] Ship products instead of only ideas                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
 
----
-
-# `09` — CONTRIBUTION MATRIX
+09 — CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -485,9 +509,7 @@ width="100%"
 
 </div>
 
----
-
-# `10` — CONNECT
+10 — CONNECT
 
 <div align="center">
 
@@ -505,23 +527,19 @@ width="100%"
 
 </div>
 
----
-
 <div align="center">
 
-`💻 CODE`   `🚀 BUILD`   `🎨 DESIGN`   `🤖 EXPLORE`   `🔐 SECURE`   `📚 LEARN`
+💻 CODE   🚀 BUILD   🎨 DESIGN   🤖 EXPLORE   🔐 SECURE   📚 LEARN
 
 <br><br>
 
-
 <br><br>
 
-**Thanks for entering my little corner of the internet. ⭐**
+Thanks for entering my little corner of the internet. ⭐
 
 </div>
 
 <br>
-
 
 </p>
 
@@ -554,16 +572,13 @@ width="100%"
   🤖 <b>AI Explorer</b>
 </p>
 
----
-
 <!-- ============================= -->
 
 <!--           ABOUT ME             -->
 
 <!-- ============================= -->
 
-
-# 🧠 Currently Learning
+🧠 Currently Learning
 
 <p align="center">
 
@@ -577,11 +592,9 @@ width="100%"
 
 </p>
 
----
+💻 Tech Stack
 
-# 💻 Tech Stack
-
-### 🧠 Languages
+🧠 Languages
 
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -594,7 +607,7 @@ width="100%"
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🌐 Frontend
+🌐 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -602,7 +615,7 @@ width="100%"
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Database
+⚙️ Backend & Database
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -613,7 +626,7 @@ width="100%"
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### 🛠️ Tools & Platforms
+🛠️ Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
