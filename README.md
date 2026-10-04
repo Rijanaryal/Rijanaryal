@@ -60,34 +60,7 @@ I learn by **building real projects**: experimenting with new tech, breaking thi
 <tr>
 <td width="48%" valign="top">
 
-Hi, I'm **Reejan Aryal** 👋
-
-I'm a software developer from Nepal 🇳🇵 who enjoys building websites, experimenting with technology and exploring UI/UX. I like turning ideas into real, working projects.
-
-I learn by building: small experiments and web interfaces first, then bigger apps that connect a **frontend**, a **backend**, a **database** and sometimes **AI**.
-
-Most nights you'll find me with headphones on, deep in backend code, shipping one more endpoint before bed. 🎧
-
-</td>
-<td width="52%" align="center" valign="middle">
-
-```text
-  </>     { }     API     SQL     JWT
-
-      ,-----.        ┌───────────────────────────┐
-     / ,   , \       │ $ node server.js          │
-    | (o) (o) |      │ app.post('/login', auth)  │
-    |    ‿    |      │   const user = db.find()  │
-     \  ---  /       │   res.json(user);         │
-   ,--`-----'--.     │ ✓ API running on :3000 █  │
-  / |  coder  | \    └─────────────┬─────────────┘
-  \_|         |_/==
-    |_________|
-
-════════════════════[::][::][::]════╧══════════════  ☕
-```
-
-<sub>🎧 a boy, a keyboard, and one more endpoint</sub>
+ </td> <td width="42%" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rijanaryal&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF&bg_color=00000000" width="100%"/> </td></tr></table> 💫 About Me <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> Hi, I'm Reejan Aryal 👋 I'm a software developer from Nepal 🇳🇵 who enjoys building websites, experimenting with technology, exploring UI/UX, and turning ideas into real projects. I enjoy learning by building — from small experiments and web interfaces to larger applications involving frontend, backend, databases and AI. 🚀 What I Do 💻 Build web applications 🎨 Explore UI/UX design 🧠 Learn programming and software engineering 🤖 Explore AI and emerging technologies 🔐 Learn cybersecurity 🛠️ Turn ideas into practical projects 📚 Continuously improve my development skills <p align="center"> Building. 🚀Learning. 📚Creating. 💡Improving. 🔥 </p>  
 
 </td>
 </tr>
