@@ -1,582 +1,297 @@
-<!-- ============================= -->
-
-<!-- HERO HEADER -->
-
-<!-- ============================= -->
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c6ff&height=250&section=header&text=Hey!%20I'm%20Reejan%20Aryal%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" /> </p>
-<p align="center">
-
+<!-- ======================== HERO ======================== -->
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c6ff&height=250&section=header&text=Hey!%20I'm%20Reejan%20Aryal%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=Initializing+Reejan.dev...;Aspiring+Software+Developer;Web+Developer+%7C+UI%2FUX+Explorer;Cybersecurity+%26+AI+Enthusiast;Building+Ideas+Into+Real+Products;Building.+Learning.+Creating.+Improving." alt="typing" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=Initializing+Reejan.dev...;Aspiring+Software+Developer;Web+Developer+%7C+UI%2FUX+Explorer;Cybersecurity+%26+AI+Enthusiast;Building+Ideas+Into+Real+Products;Building.+Learning.+Creating.+Improving." />
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=0f0c29)
+![Location](https://img.shields.io/badge/LOCATION-NEPAL%20%F0%9F%87%B3%F0%9F%87%B5-7C3AED?style=for-the-badge&labelColor=0f0c29)
+![Study](https://img.shields.io/badge/BSc-CSIT-00E5FF?style=for-the-badge&labelColor=0f0c29)
+![Mode](https://img.shields.io/badge/MODE-BUILD-7C3AED?style=for-the-badge&labelColor=0f0c29)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Rijanaryal&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
+<img src="https://img.shields.io/github/followers/Rijanaryal?style=flat-square&logo=github&label=Followers" alt="followers" />
+<img src="https://img.shields.io/github/stars/Rijanaryal?style=flat-square&logo=github&label=Stars" alt="stars" />
 
 </div>
 
-<br>
+---
 
-<!-- ======================== STATUS ========================= -->
-
-<div align="center">
-
-● ONLINE    ⌁ NEPAL    ⌘ CSIT STUDENT    ⚡ BUILD MODE
-
-</div>
-
-<br>
-
-# 01 — WHO AM I?
+## 01 · Who Am I?
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=7C3AED&width=600&height=35&lines=whoami;cat+about-me.txt;./introduce.sh" />
+```text
+┌────────────────────────────────────────────┐
+│  NAME       →  Reejan Aryal                │
+│  LOCATION   →  Kathmandu, Nepal 🇳🇵        │
+│  ROLE       →  Aspiring Software Developer │
+│  FOCUS      →  Web • UI/UX • AI • Security │
+│  STUDYING   →  BSc CSIT                    │
+│  MOTTO      →  Ideas → Interfaces → Products│
+└────────────────────────────────────────────┘
+```
 
-┌──────────────────────────────────────────────┐
-│                                              │
-│  NAME        →  Reejan Aryal                 │
-│  LOCATION    →  Nepal 🇳🇵                    │
-│  ROLE        →  Software Developer           │
-│  FOCUS       →  Web • UI/UX • AI • Security │
-│  CURRENTLY   →  BSc CSIT                    │
-│                                              │
-└──────────────────────────────────────────────┘
+I'm a developer from Nepal who loves turning ideas into interactive digital experiences.
 
-I'm a developer from Nepal who enjoys turning ideas into interactive digital experiences.
-
-I learn primarily by building real projects, experimenting with new technologies, breaking things, fixing them, and improving the result.
+I learn by **building real projects**: experimenting with new tech, breaking things, fixing them, and shipping something better each time.
 
 </td>
-
 <td width="42%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rijanaryal&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF&bg_color=00000000" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rijanaryal&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF&bg_color=00000000" width="100%" alt="GitHub stats" />
 
 </td>
 </tr>
 </table>
 
-💫 About Me
+### 🚀 What I Do
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+| | |
+|---|---|
+| 💻 **Build** | Web applications, from frontend to backend and databases |
+| 🎨 **Design** | Interactive UI/UX with motion and personality |
+| 🤖 **Explore** | AI tools, APIs and emerging technologies |
+| 🔐 **Learn** | Cybersecurity fundamentals |
+| 🛠️ **Ship** | Practical projects that solve real problems |
 
-Hi, I'm Reejan Aryal 👋
+---
 
-I'm a software developer from Nepal 🇳🇵 who enjoys building websites, experimenting with technology, exploring UI/UX, and turning ideas into real projects.
+## 02 · Current System
 
-I enjoy learning by building — from small experiments and web interfaces to larger applications involving frontend, backend, databases and AI.
+```text
+$ system --status
 
-🚀 What I Do
+  USER      : reejan
+  OS        : Developer Mode
+  LOCATION  : Kathmandu, Nepal 🇳🇵
+  STATUS    : ● ONLINE
 
-💻 Build web applications
+  CURRENTLY BUILDING
+  ├── 🌐 Modern web applications
+  ├── 🤖 AI experiments
+  ├── 🎨 Interactive UI/UX
+  ├── 🔐 Cybersecurity fundamentals
+  └── 🛠️ Developer tools
 
-🎨 Explore UI/UX design
+  CURRENT MISSION
+  └── Turn ideas → interfaces → products
+```
 
-🧠 Learn programming and software engineering
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=850&height=40&lines=%24+npm+run+build;Building+the+future...;Compiling+ideas...;Deploying+creativity...;System+ready." alt="build" />
+</div>
 
-🤖 Explore AI and emerging technologies
+---
 
-🔐 Learn cybersecurity
-
-🛠️ Turn ideas into practical projects
-
-📚 Continuously improve my development skills
-
-<p align="center">
-
-Building. 🚀
-Learning. 📚
-Creating. 💡
-Improving. 🔥
-
-</p>
-
-
-
-# 02 — CURRENT SYSTEM
-
-┌──────────────────────────────────────────────────────────────────────┐
-│                         SYSTEM STATUS                               │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  USER       : reejan                                                │
-│  OS         : Developer Mode                                        │
-│  LOCATION   : Kathmandu, Nepal 🇳🇵                                  │
-│  STATUS     : ● ONLINE                                              │
-│                                                                      │
-│  CURRENTLY BUILDING                                                │
-│  ├── 🌐 Modern Web Applications                                    │
-│  ├── 🤖 AI Experiments                                              │
-│  ├── 🎨 Interactive UI/UX                                          │
-│  ├── 🔐 Cybersecurity Fundamentals                                 │
-│  └── 🛠️ Developer Tools                                           │
-│                                                                      │
-│  CURRENT MISSION                                                   │
-│  └── Turn ideas → interfaces → products                            │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=850&height=40&lines=%24+npm+run+build;Building+the+future...;Compiling+ideas...;Deploying+creativity...;System+ready." />
-
-</p>
-
-# 03 — TECH STACK
+## 03 · Tech Stack
 
 <div align="center">
 
-LANGUAGES
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css&theme=dark" alt="languages" />
 
-FRONTEND
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="frontend" />
 
-BACKEND / DATABASE
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb,firebase&theme=dark" alt="backend" />
 
-TOOLS
+**Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark" alt="tools" />
 
 </div>
 
-# 04 — PROJECT DATABASE
+---
+
+## 04 · Project Database
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🛒 TAAJA BAZAR
+### 🛒 Taaja Bazar
+`Farmer → Buyer Platform`
 
-TYPE
-Farmer → Buyer Platform
+A low-data, Nepal-focused web platform connecting farmers and buyers with a simple, accessible experience.
 
-FOCUS
-Low-data Nepal Web Platform
-
-STACK
-HTML • CSS • JS
-UI/UX • Figma
-
-A platform concept focused on connecting farmers and buyers while keeping the experience simple and accessible.
+**Stack:** HTML · CSS · JavaScript · Figma
 
 </td>
-
 <td width="50%" valign="top">
 
-🛍️ ELECTRO-BAZZAR
+### 🛍️ Electro-Bazzar
+`E-Commerce Platform`
 
-TYPE
-E-Commerce Platform
+A database-driven shopping site covering product browsing and core shopping functionality.
 
-STACK
-PHP
-MySQL
-HTML • CSS • JS
-XAMPP
-
-An e-commerce project developed around product browsing, shopping functionality and database-driven web development.
+**Stack:** PHP · MySQL · HTML · CSS · JavaScript · XAMPP
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-🤖 NEPALGPT
+### 🤖 NepalGPT
+`AI Chat Application`
 
-TYPE
-AI / Chat Application
+An experimental AI app connecting a modern web frontend to a Python backend.
 
-BACKEND
-Python
-FastAPI
-
-FRONTEND
-Web Interface
-
-FOCUS
-AI • APIs • Full Stack
-
-An experimental AI application exploring the connection between a modern frontend and Python backend.
+**Stack:** Python · FastAPI · Web UI
 
 </td>
-
 <td width="50%" valign="top">
 
-🎓 ASCOL HUB
+### 🎓 ASCOL Hub
+`Student Platform`
 
-TYPE
-Student Platform
+A digital platform concept for connecting ASCOL students and building community.
 
-STACK
-Next.js
-Node.js
-JavaScript
-Three.js
-
-FOCUS
-Students • Community • UI
-
-A concept for connecting ASCOL students through a dedicated digital platform.
+**Stack:** Next.js · Node.js · JavaScript · Three.js
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-🧮 SCIENTIFIC CALCULATOR
+### 🧮 Scientific Calculator
+`Interactive Tool`
 
-TYPE
-Interactive Tool
+A realistic calculator focused on logic, interaction and authentic calculator-style design.
 
-STACK
-JavaScript
-HTML
-CSS
-
-FOCUS
-Logic • UI • UX
-
-A realistic scientific calculator project focused on functionality, interaction and calculator-style interface design.
+**Stack:** JavaScript · HTML · CSS
 
 </td>
-
 <td width="50%" valign="top">
 
-🌐 REEJAN.DEV
+### 🌐 reejan.dev
+`Personal Portfolio`
 
-TYPE
-Personal Portfolio
+A highly interactive developer portfolio built around modern animation and visual storytelling.
 
-STACK
-Next.js
-JavaScript
-Framer Motion
-
-FOCUS
-Creative UI
-Motion
-Personal Branding
-
-A highly interactive developer portfolio designed around modern web animation and visual storytelling.
+**Stack:** Next.js · JavaScript · Framer Motion
 
 </td>
 </tr>
 </table>
 
-Frontend Development
-↓
-Browser APIs
-↓
-Client–Server Communication
-↓
-REST / HTTP Requests
-↓
-Backend Routing
-↓
-Data Processing
-↓
-Real-Time Dashboard
+> 💡 Add live demo and repo links to each project, since recruiters love clickable proof.
+> Example: `[Live Demo](https://...) · [Source](https://github.com/Rijanaryal/...)`
+
+---
+
+## 05 · Backend Knowledge Flow
+
+<div align="center">
+<i>From request → logic → data → response</i>
+</div>
+
+```mermaid
+flowchart LR
+    A["🌐 Client<br/>HTTP · REST"] --> B["⚙️ Backend<br/>Node · Express<br/>Middleware"]
+    B --> C["🧠 Logic<br/>Validation<br/>Auth · Services"]
+    C --> D["🗄️ Database<br/>MongoDB · MySQL"]
+    D --> E["🚀 Response<br/>JSON · Status Codes"]
+```
+
+---
+
+## 06 · GitHub Telemetry
 
 <div align="center">
 
-05⚡ Backend Knowledge Flow
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijanaryal&layout=donut&theme=transparent&hide_border=true&title_color=00E5FF&text_color=FFFFFF" height="180" alt="top languages" />
+<img src="https://streak-stats.demolab.com?user=Rijanaryal&theme=transparent&hide_border=true&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" height="180" alt="streak" />
 
-<p>
-  <i>From request → logic → data → response</i>
-</p>
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-🌐
-
-API / Request
-
-HTTP
-REST API
-Routes
-
-</td>
-
-<td align="center">➜</td>
-
-<td align="center">
-
-⚙️
-
-Backend Logic
-
-Node.js
-Express.js
-Middleware
-
-</td>
-
-<td align="center">➜</td>
-
-<td align="center">
-
-🧠
-
-Business Logic
-
-Validation
-Authentication
-Services
-
-</td>
-
-<td align="center">➜</td>
-
-<td align="center">
-
-🗄️
-
-Database
-
-MongoDB
-MySQL
-Queries
-
-</td>
-
-<td align="center">➜</td>
-
-<td align="center">
-
-🚀
-
-Response
-
-JSON
-Status Codes
-API Response
-
-</td>
-</tr>
-</table>
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 05 — GITHUB TELEMETRY
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijanaryal&layout=donut&theme=transparent&hide_border=true&title_color=00E5FF&text_color=FFFFFF"
-height="180"
-/>
-
-<img
-src="https://streak-stats.demolab.com?user=Rijanaryal&theme=transparent&hide_border=true&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF"
-height="180"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rijanaryal&bg_color=050510&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="activity graph" />
 
 </div>
 
-<br>
+---
+
+## 07 · Learning Engine
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=600&color=00E5FF&center=true&vCenter=true&width=900&height=45&lines=Learning+JavaScript...;Learning+Next.js...;Learning+Backend+Architecture...;Exploring+AI...;Exploring+Cybersecurity...;Improving+Every+Day..." alt="learning" />
+</div>
+
+```text
+Web Development       [████████████████████░░]
+JavaScript / React    [███████████████░░░░░░░]
+Backend Development   [██████████████░░░░░░░░]
+AI Development        [███████████░░░░░░░░░░░]
+Cybersecurity         [█████████░░░░░░░░░░░░░]
+Open Source           [███████░░░░░░░░░░░░░░░]
+```
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Rijanaryal&bg_color=050510&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
-width="100%"
-/>
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Learning-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Exploring-8A2BE2?style=for-the-badge)
+![Security](https://img.shields.io/badge/Cybersecurity-Learning-00C7FF?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 </div>
 
-07 — LEARNING ENGINE
+---
 
-<p align="center">
+## 08 · 2026 Objectives
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=600&color=00E5FF&center=true&vCenter=true&width=900&height=45&lines=Learning+JavaScript...;Learning+Next.js...;Learning+Backend+Architecture...;Exploring+AI...;Exploring+Cybersecurity...;Improving+Every+Day..." />
+```text
+╔════════════════════════════════════════════════════════╗
+║                       2026.exe                         ║
+╠════════════════════════════════════════════════════════╣
+║  [✓] Build real-world projects                         ║
+║  [ ] Get stronger in full-stack development            ║
+║  [ ] Master modern JavaScript                          ║
+║  [ ] Build advanced Next.js applications               ║
+║  [ ] Explore AI development                            ║
+║  [ ] Improve cybersecurity fundamentals                ║
+║  [ ] Contribute to open source                         ║
+║  [ ] Build a strong developer portfolio                ║
+║  [ ] Ship products instead of only ideas               ║
+╚════════════════════════════════════════════════════════╝
+```
 
-</p>
+---
 
-[████████████████████░░] Web Development
-[███████████████░░░░░░░] JavaScript / React
-[██████████████░░░░░░░░] Backend Development
-[███████████░░░░░░░░░░░] AI Development
-[█████████░░░░░░░░░░░░░] Cybersecurity
-[███████░░░░░░░░░░░░░░░] Open Source
-
-# 07— 2026 OBJECTIVES
-
-╔══════════════════════════════════════════════════════════════╗
-║                       2026.exe                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [✓] Build real-world projects                              ║
-║  [ ] Become stronger in full-stack development              ║
-║  [ ] Master modern JavaScript                                ║
-║  [ ] Build advanced Next.js applications                    ║
-║  [ ] Explore AI development                                  ║
-║  [ ] Improve cybersecurity fundamentals                      ║
-║  [ ] Contribute to open source                               ║
-║  [ ] Build a strong developer portfolio                      ║
-║  [ ] Ship products instead of only ideas                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
-# 08 — CONTRIBUTION MATRIX
+## 09 · Contribution Matrix
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 </div>
 
-10 — CONNECT
+---
+
+## 10 · Connect
 
 <div align="center">
 
-<a href="https://github.com/Rijanaryal">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:rijanaryal1868@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
-
-💻 CODE   🚀 BUILD   🎨 DESIGN   🤖 EXPLORE   🔐 SECURE   📚 LEARN
+<a href="https://github.com/Rijanaryal"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:rijanaryal1868@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br><br>
 
-<br><br>
-
-Thanks for entering my little corner of the internet. ⭐
-
-</div>
+💻 CODE &nbsp; 🚀 BUILD &nbsp; 🎨 DESIGN &nbsp; 🤖 EXPLORE &nbsp; 🔐 SECURE &nbsp; 📚 LEARN
 
 <br>
 
-</p>
+**Thanks for visiting my little corner of the internet. ⭐ a repo if something caught your eye!**
 
-<!-- ============================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
 
-<!--        TYPEWRITER              -->
-
-<!-- ============================= -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2200&pause=700&color=00C7FF&center=true&vCenter=true&width=950&height=70&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Cybersecurity+Enthusiast+%F0%9F%94%90;UI%2FUX+Explorer+%F0%9F%8E%A8;AI+%26+Technology+Enthusiast+%F0%9F%A4%96;Programmer+%F0%9F%92%A1;Building.+Learning.+Creating.+Improving.+%F0%9F%9A%80"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rijanaryal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Rijanaryal?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/Rijanaryal?style=for-the-badge&logo=github&label=Stars" />
-</p>
-
-<p align="center">
-  🇳🇵 <b>From Nepal</b>
-  &nbsp; • &nbsp;
-  💻 <b>Web Developer</b>
-  &nbsp; • &nbsp;
-  🔐 <b>Cybersecurity Enthusiast</b>
-  &nbsp; • &nbsp;
-  🤖 <b>AI Explorer</b>
-</p>
-
-<!-- ============================= -->
-
-<!--           ABOUT ME             -->
-
-<!-- ============================= -->
-
-🧠 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-Advanced%20Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-Learning-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend-Development-6DB33F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-Exploration-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cybersecurity-Learning-00C7FF?style=for-the-badge&logo=hackthebox&logoColor=white" />
-
-</p>
-
-💻 Tech Stack
-
-🧠 Languages
-
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-🌐 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-⚙️ Backend & Database
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-🛠️ Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColo
+</div>
