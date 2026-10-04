@@ -402,7 +402,6 @@ width="100%"
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Rijanaryal&style=for-the-badge&label=PROFILE+ACCESS" />
 
 <br><br>
 
@@ -412,10 +411,7 @@ width="100%"
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c6ff&height=250&section=header&text=Hey!%20I'm%20Reejan%20Aryal%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38"
-    width="100%"/>
 </p>
 
 <!-- ============================= -->
