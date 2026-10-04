@@ -43,22 +43,8 @@ I'm a developer from Nepal who loves turning ideas into interactive digital expe
 
 I learn by **building real projects**: experimenting with new tech, breaking things, fixing them, and shipping something better each time.
 
-</td>
 <td width="42%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rijanaryal&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF&bg_color=00000000" width="100%" alt="GitHub stats" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 02 · About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-
-### 💫<img src="https://github-readme-stats.vercel.app/api?username=Rijanaryal&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF&bg_color=00000000" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rijanaryal&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF&bg_color=00000000" width="100%"/>
 </td>
 </tr>
 </table>
@@ -79,16 +65,8 @@ I enjoy learning by building — from small experiments and web interfaces to la
 Building. 🚀
 Learning. 📚
 Creating. 💡
-Improving. 🔥.
-
-
-
-<br clear="right" />
-
-<p align="center">
-  <b>Building. 🚀 &nbsp; Learning. 📚 &nbsp; Creating. 💡 &nbsp; Improving. 🔥</b>
-</p>
-
+Improving. 🔥
+</p> a
 ---
 
 ## 03 · Current System
