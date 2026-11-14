@@ -104,80 +104,13 @@ $ system --status
 
 ## 05 · Project Database
 
-<table>
-<tr>
-<td width="50%" valign="top" bgcolor="#101c2c">
-
-### 🛒 Taaja Bazar
-`Farmer → Buyer Platform`
-
-A low-data, Nepal-focused web platform connecting farmers and buyers with a simple, accessible experience.
-
-**Stack:** HTML · CSS · JavaScript · Figma
-
-</td>
-<td width="50%" valign="top" bgcolor="#101c2c">
-
-### 🛍️ Electro-Bazzar
-`E-Commerce Platform`
-
-A database-driven shopping site covering product browsing and core shopping functionality.
-
-**Stack:** PHP · MySQL · HTML · CSS · JavaScript · XAMPP
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" bgcolor="#101c2c">
-
-### 🤖 NepalGPT
-`AI Chat Application`
-
-An experimental AI app connecting a modern web frontend to a Python backend.
-
-**Stack:** Python · FastAPI · Web UI
-
-</td>
-<td width="50%" valign="top" bgcolor="#101c2c">
-
-### 🎓 ASCOL Hub
-`Student Platform`
-
-A digital platform concept for connecting ASCOL students and building community.
-
-**Stack:** Next.js · Node.js · JavaScript · Three.js
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" bgcolor="#101c2c">
-
-### ⚡ JARVIS
-`AI Personal Assistant`
-
-An AI assistant project focused on intelligent interactions and personal assistant functionality.
-
-**Stack:** JavaScript · HTML · CSS
-
-</td>
-<td width="50%" valign="top" bgcolor="#101c2c">
-
-### 🌐 reejan.dev
-`Personal Portfolio`
-
-A highly interactive developer portfolio built around modern animation and visual storytelling.
-
-**Stack:** Next.js · JavaScript · Framer Motion
-
-</td>
-</tr>
-</table>
-
-> ✨ More projects coming soon. Explore my repositories to see what I'm building.
-
----
-
-
+<div align="center">
+  <a href="https://github.com/Rijanaryal">
+    <img src="./assets/reejan-project-cards.gif"
+         width="100%"
+         alt="REEJAN ARYAL - Animated Project Database" />
+  </a>
+</div>
 
 ## 06 · Backend Knowledge Flow
 
