@@ -1,11 +1,14 @@
 
-
 <!-- ======================== HERO ======================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c6ff&height=250&section=header&text=Hey!%20I'm%20Reejan%20Aryal%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="header" />
+<a href="https://reejanaryal.vercel.app" target="_blank">
 
-<img src="reejanaryal.vercel.app?font=JetBrains+Mono&weight=600&size=23&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=Initializing+Reejan.dev...;Aspiring+Software+Developer;Web+Developer+%7C+UI%2FUX+Explorer;Cybersecurity+%26+AI+Enthusiast;Building+Ideas+Into+Real+Products;Building.+Learning.+Creating.+Improving." alt="typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1C,45:172554,100:00E5FF&height=250&section=header&text=Hey!%20I'm%20Reejan%20Aryal%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Visit Reejan Aryal's Portfolio" />
+
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=Initializing+Reejan.dev...;Aspiring+Software+Developer;Web+Developer+%7C+UI%2FUX+Explorer;Cybersecurity+%26+AI+Enthusiast;Building+Ideas+Into+Real+Products;Building.+Learning.+Creating.+Improving." alt="typing" />
 
 <br>
 
