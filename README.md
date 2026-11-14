@@ -1,37 +1,14 @@
-<!-- ================= REEJAN ARYAL | DEVELOPER HERO ================= -->
-
+<!-- ============== REEJAN ARYAL | HERO ============== -->
 <div align="center">
 
 <a href="https://reejanaryal.vercel.app" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10131D,35:172B38,70:243B42,100:111827&height=190&section=header&text=REEJAN%20ARYAL&fontSize=48&fontColor=E5F7F2&fontAlignY=43&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%20%7C%20%20AI%20EXPLORER&descSize=14&descColor=8BE9C5&descAlignY=68" width="100%" alt="Reejan Aryal Portfolio"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050807,30:10251C,65:172D38,100:080B12&height=180&section=header&text=ReejanAryal.dev&fontSize=48&fontColor=E5FFF0&fontAlignY=43&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%20%7C%20%20AI%20ENTHUSIAST&descSize=14&descColor=78E6B0&descAlignY=70" width="100%" alt="Reejan Aryal - Portfolio"/>
 </a>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=8BE9C5&center=true&vCenter=true&width=750&height=45&lines=%3E+Building+digital+experiences...;%3E+Exploring+AI+and+emerging+technology;%3E+Developing+ideas+into+real+products;%3E+Always+learning.+Always+building." alt="Developer animation"/>
-
-<br/>
-
-![ONLINE](https://img.shields.io/badge/●-ONLINE-8BE9C5?style=flat-square&labelColor=151B24)
-![NEPAL](https://img.shields.io/badge/NEPAL-334155?style=flat-square)
-![BSc CSIT](https://img.shields.io/badge/BSc-CSIT-8B9CF6?style=flat-square)
-![BUILD MODE](https://img.shields.io/badge/MODE-BUILD-D6A86C?style=flat-square)
-
-<br/>
-
-<a href="https://reejanaryal.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO%20↗-8BE9C5?style=for-the-badge&labelColor=151B24" alt="Visit Portfolio"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Rijanaryal&label=PROFILE+VIEWS&color=8BE9C5&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Rijanaryal?style=flat-square&logo=github&label=Followers" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Rijanaryal?style=flat-square&logo=github&label=Stars" alt="Stars"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=78E6B0&center=true&vCenter=true&width=600&height=35&lines=%3E+Building+the+future...;%3E+Code.+Create.+Innovate." alt="Developer animation"/>
 
 </div>
-
-<!-- =================  HERO ================= -->
+<!-- ================================================ -->
 
 ## 01 · Who Am I?
 
