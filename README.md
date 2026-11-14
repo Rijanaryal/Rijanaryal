@@ -1,27 +1,36 @@
-
-<!-- ======================== HERO ======================== -->
+<!-- ======================== HERO | HACKER EDITION ======================== -->
 <div align="center">
 
 <a href="https://reejanaryal.vercel.app" target="_blank">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1C,45:172554,100:00E5FF&height=250&section=header&text=Hey!%20I'm%20Reejan%20Aryal%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Visit Reejan Aryal's Portfolio" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:101B16,55:153D2B,80:26304A,100:111111&height=240&section=header&text=REЕJAN%20ARYAL&fontSize=52&fontColor=E8F5E9&animation=twinkling&fontAlignY=38&desc=ACCESSING%20THE%20FUTURE...&descSize=14&descColor=7CFF9B&descAlignY=58" width="100%" alt="Reejan Aryal - Portfolio"/>
 
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=Initializing+Reejan.dev...;Aspiring+Software+Developer;Web+Developer+%7C+UI%2FUX+Explorer;Cybersecurity+%26+AI+Enthusiast;Building+Ideas+Into+Real+Products;Building.+Learning.+Creating.+Improving." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1200&color=7CFF9B&center=true&vCenter=true&width=850&height=55&lines=%3E+Initializing+Reejan.dev...;%3E+Software+Developer+in+Progress;%3E+Web+Development+%7C+UI%2FUX;%3E+AI+%26+Cybersecurity+Enthusiast;%3E+Turning+Ideas+Into+Reality;%3E+Think.+Build.+Break.+Improve." alt="Developer terminal animation"/>
 
 <br>
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=0f0c29)
-![Location](https://img.shields.io/badge/LOCATION-NEPAL%20%F0%9F%87%B3%F0%9F%87%B5-7C3AED?style=for-the-badge&labelColor=0f0c29)
-![Study](https://img.shields.io/badge/BSc-CSIT-00E5FF?style=for-the-badge&labelColor=0f0c29)
-![Mode](https://img.shields.io/badge/MODE-BUILD-7C3AED?style=for-the-badge&labelColor=0f0c29)
+![Status](https://img.shields.io/badge/●_SYSTEM-ONLINE-38D996?style=flat-square&labelColor=101510)
+![Location](https://img.shields.io/badge/LOCATION-NEPAL-94A3B8?style=flat-square&labelColor=151515)
+![Study](https://img.shields.io/badge/EDUCATION-BSc_CSIT-A78BFA?style=flat-square&labelColor=151515)
+![Mode](https://img.shields.io/badge/MODE-ENGINEERING-F59E0B?style=flat-square&labelColor=151515)
 
-<br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rijanaryal&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
-<img src="https://img.shields.io/github/followers/Rijanaryal?style=flat-square&logo=github&label=Followers" alt="followers" />
-<img src="https://img.shields.io/github/stars/Rijanaryal?style=flat-square&logo=github&label=Stars" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=Rijanaryal&label=VISITORS&color=38D996&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Rijanaryal?style=flat-square&logo=github&label=NETWORK&color=A78BFA" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Rijanaryal?style=flat-square&logo=github&label=RECOGNITION&color=F59E0B" alt="Stars"/>
+
+<br/><br/>
+
+<a href="https://reejanaryal.vercel.app">
+<img src="https://img.shields.io/badge/↗_ENTER_MY_DIGITAL_WORLD-7CFF9B?style=for-the-badge&labelColor=101510&color=7CFF9B" alt="Explore Portfolio"/>
+</a>
+
+<br/><br/>
+
+<sub><code>01010010 01000101 01000101 01001010 01000001 01001110</code></sub>
 
 </div>
 
