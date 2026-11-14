@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="./assets/reejan-arcade.gif" width="100%" alt="REEJAN ARYAL" />
+  <a href="https://reejanaryal.vercel.app" target="_blank">
+    <img src="./assets/reejan-arcade.gif" width="100%" alt="REEJAN ARYAL" />
+  </a>
 </div>
-
 ## 01 · Who Am I?
 
 <table>
