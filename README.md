@@ -101,11 +101,12 @@ $ system --status
 
 ---
 
+
 ## 05 · Project Database
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#101c2c">
 
 ### 🛒 Taaja Bazar
 `Farmer → Buyer Platform`
@@ -115,7 +116,7 @@ A low-data, Nepal-focused web platform connecting farmers and buyers with a simp
 **Stack:** HTML · CSS · JavaScript · Figma
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#101c2c">
 
 ### 🛍️ Electro-Bazzar
 `E-Commerce Platform`
@@ -127,7 +128,7 @@ A database-driven shopping site covering product browsing and core shopping func
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#101c2c">
 
 ### 🤖 NepalGPT
 `AI Chat Application`
@@ -137,7 +138,7 @@ An experimental AI app connecting a modern web frontend to a Python backend.
 **Stack:** Python · FastAPI · Web UI
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#101c2c">
 
 ### 🎓 ASCOL Hub
 `Student Platform`
@@ -149,17 +150,17 @@ A digital platform concept for connecting ASCOL students and building community.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#101c2c">
 
-### 🧮 Scientific Calculator
-`Interactive Tool`
+### ⚡ JARVIS
+`AI Personal Assistant`
 
-A realistic calculator focused on logic, interaction and authentic calculator-style design.
+An AI assistant project focused on intelligent interactions and personal assistant functionality.
 
 **Stack:** JavaScript · HTML · CSS
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#101c2c">
 
 ### 🌐 reejan.dev
 `Personal Portfolio`
@@ -172,10 +173,11 @@ A highly interactive developer portfolio built around modern animation and visua
 </tr>
 </table>
 
-> 💡 Add live demo and repo links to each project, since recruiters love clickable proof.
-> Example: `[Live Demo](https://...) · [Source](https://github.com/Rijanaryal/...)`
+> ✨ More projects coming soon. Explore my repositories to see what I'm building.
 
 ---
+
+
 
 ## 06 · Backend Knowledge Flow
 
