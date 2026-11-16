@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://reejanaryal.vercel.app" target="_blank">
+  <a href="https://rijanaryal.com.np" target="_blank">
     <img src="./assets/reejan-arcade.gif" width="100%" alt="REEJAN ARYAL" />
   </a>
 </div>
