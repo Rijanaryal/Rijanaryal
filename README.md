@@ -13,9 +13,9 @@
 ┌────────────────────────────────────────────┐
 │  NAME       →  Reejan Aryal                │
 │  LOCATION   →  Kathmandu, Nepal 🇳🇵        │
-│  ROLE       →  Aspiring Software Developer │
+│  ROLE       →  Software Developer │
 │  FOCUS      →  Web • UI/UX • AI • Security │
-│  STUDYING   →  BSc CSIT                    │
+│  STUDYING   →  BSc CSIT ( ASCOL )                    │
 │  MOTTO      →  Ideas → UI → Products       │
 └────────────────────────────────────────────┘
 ```
